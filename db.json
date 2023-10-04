@@ -199,16 +199,16 @@
   "users": [
     {
       "id": 1,
-      "firstName": "",
-      "lastName": "",
-      "userName": "",
-      "email": "",
-      "password": "",
+      "firstName": "mohamed",
+      "lastName": "magdy",
+      "userName": "mohamedmagdy",
+      "email": "mohamed2000@gmail.com",
+      "password": "12345",
       "role": "admin",
-      "gender": "",
-      "city": "",
-      "image": "",
-      "phoneNumber": ""
+      "gender": "male",
+      "city": "cairo",
+      "image": "blob:https://web.whatsapp.com/cb9c74a7-9fbd-45dc-975f-350ca0abf9aa",
+      "phoneNumber": "01061152850"
     }
   ]
 }
