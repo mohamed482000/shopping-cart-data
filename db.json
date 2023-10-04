@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "name": "Activ mens ACTIV MEN CREW-NECK SWEATSHIRT Sweatshirt",
+      "name": "Activ men crew-neck sweatshirt",
       "price": "200",
       "img": "https://m.media-amazon.com/images/I/41hn+kIAZgL._AC_.jpg",
       "sort": "Sweatshirt",
@@ -120,7 +120,7 @@
     {
       "id": 10,
       "img": "https://m.media-amazon.com/images/I/41Q8F1Y0IML._AC_.jpg",
-      "name": "TIA Casual Zip Fur Sleeve Hooded Jacket with Suede",
+      "name": "TIA Casual Zip Fur Sleeve Hooded Jacket ",
       "price": 280,
       "sort": "Jacket",
       "rate": 1.5,
@@ -146,7 +146,7 @@
     {
       "id": 12,
       "img": "https://m.media-amazon.com/images/I/31EFzZ6XRNL._AC_.jpg",
-      "name": "Kitten Kids Boys Waterproof Zipper Hooded Jacket",
+      "name": "Kitten Boys Zipper Hooded Jacket",
       "price": 309,
       "sort": "Jacket",
       "rate": 4.5,
