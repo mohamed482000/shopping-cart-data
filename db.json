@@ -209,6 +209,19 @@
       "city": "cairo",
       "image": "https://avatars.githubusercontent.com/u/96828380?s=400&u=a34956921382a8685f142e370c3b9e67a59a1870&v=4",
       "phoneNumber": "01061152850"
+    },
+    {
+      "id": 2,
+      "firstName": "ibrahim",
+      "lastName": "magdy",
+      "userName": "ibrahimmagdy",
+      "email": "ibrahim1994@gmail.com",
+      "password": "12345",
+      "role": "member",
+      "gender": "male",
+      "city": "cairo",
+      "image": "https://icons.veryicon.com/png/o/internet--web/55-common-web-icons/person-4.png",
+      "phoneNumber": "01061152850"
     }
   ]
 }
